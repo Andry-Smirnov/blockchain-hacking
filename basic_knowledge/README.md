@@ -10,9 +10,9 @@
 * [honeypots](honeypots)
 * [cryptography](cryptography)
 * [evm and opcodes](evm_and_opcodes)
-* [l2s and rollups](l2_and_rollups)
+* [L2s and rollups](l2_and_rollups)
 * [decentralized storage](decentralized_storage)
-* [open zeppelin resources](OpenZeppelin)
+* [OpenZeppelin resources](OpenZeppelin)
 
 <br>
 
