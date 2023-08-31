@@ -1,6 +1,7 @@
 ## reentrancy attacks
 
 <br>
+
 <p align="center">
 <img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/8f6f4c12-2990-420d-95d6-f3d5379bc72c" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
  </p>
@@ -73,6 +74,14 @@ function withdrawBalance() public noReentrant {
 
 #### Option 2: CEI (checks effects interaction) pattern
 
+<br>
+
+<p align="center">
+<img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/8a57158e-82d8-4be2-bdf1-22faaaab97f7" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
+ </p>
+
+ <br>
+
 ```
 function withdrawBalance() public {
     uint amountToWithdraw = userBalances[msg.sender];
@@ -89,6 +98,8 @@ function withdrawBalance() public {
 
 
 ### resources
+
+<br>
 
 * [reentrancy on solidity docs](https://docs.soliditylang.org/en/latest/security-considerations.html#re-entrancy)
 * [reentrancy on DASP](https://www.dasp.co/#item-1)
