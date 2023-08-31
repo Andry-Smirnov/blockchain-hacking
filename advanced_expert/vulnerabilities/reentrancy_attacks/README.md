@@ -1,5 +1,14 @@
 ## reentrancy attacks
 
+<br>
+<p align="center">
+<img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/8f6f4c12-2990-420d-95d6-f3d5379bc72c" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
+ </p>
+
+
+
+<br>
+
 
 ### tl; dr
 
