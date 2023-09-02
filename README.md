@@ -1,5 +1,4 @@
-## ⛓🍕 blockchain hacking for fun or profit
-
+## ⛓🍕 blockchain auditing
 
 <br>
 
