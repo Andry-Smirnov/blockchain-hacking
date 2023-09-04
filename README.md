@@ -1,4 +1,4 @@
-## ⛓🍕 [WIP] blockchain auditing
+## ⛓🍕 blockchain auditing
 
 <br>
 
