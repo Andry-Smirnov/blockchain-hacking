@@ -2,17 +2,19 @@
 
 <br>
 
-<p align="center">
-<img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/d8aa9abb-1aba-43d1-8ed8-6e191e3229ff" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
- </p>
-
-
-### tl; dr:
-
 
 ##### 👾 this repository is an *on-going* catalog from my own research and development. if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated: do your homework and join us (we need you).
 
 ##### 🏴‍☠️ if you are interested in mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). as everything in life, the *most valuable commodity is information*. 
+
+
+
+
+<br>
+
+<p align="center">
+<img src="https://github.com/go-outside-labs/blockchain-auditing/assets/138340846/d8aa9abb-1aba-43d1-8ed8-6e191e3229ff" width="55%" align="center" style="padding:1px;border:1px solid black;"/>
+ </p>
 
 
 
