@@ -3,9 +3,9 @@
 <br>
 
 
-##### 👾 this repository is an *on-going* catalog from my own research and development. if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated: do your homework and join us (we need you).
+##### 👾 this repository is an *on-going* catalog from my own research and development. if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated: do your homework and join us.
 
-##### 🏴‍☠️ if you are interested in mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). as everything in life, the *most valuable commodity is information*. 
+##### 🏴‍☠️ if you are interested in mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). 
 
 
 
