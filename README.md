@@ -66,6 +66,7 @@
 * **[foundry exploits](advanced_expert/foundry_exploits)**
 * **[practice your skills](advanced_expert/practice_your_skills/)**
 * **[contracts of interest](advanced_expert/contracts_of_interest)**
+* **[anonimity resources](advanced_expert/anonimity)**
 
 
 
