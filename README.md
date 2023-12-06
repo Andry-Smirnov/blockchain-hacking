@@ -3,7 +3,7 @@
 <br>
 
 
-##### 👾 this repository is an *on-going* catalog from my own research and development. if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated: do your homework and join us.
+##### 👾 this repository is an *ongoing* catalog from my own research and development. if you are passionate about self-sovereignty and love solving complex problems, don't be intimidated: do your homework and join us.
 
 ##### 🏴‍☠️ if you are interested in mev-related resources, check out our [mev-toolkit](https://github.com/go-outside-labs/mev-toolkit). 
 
@@ -66,7 +66,7 @@
 * **[foundry exploits](advanced_expert/foundry_exploits)**
 * **[practice your skills](advanced_expert/practice_your_skills/)**
 * **[contracts of interest](advanced_expert/contracts_of_interest)**
-* **[anonimity resources](advanced_expert/anonimity)**
+* **[anonymity resources](advanced_expert/anonimity)**
 
 
 
