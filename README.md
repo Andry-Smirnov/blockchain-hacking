@@ -33,6 +33,7 @@
 * **[l2s && rollups](basic_knowledge/l2_and_rollups)**
 * **[the evm && opcodes](basic_knowledge/evm_and_opcodes)**
 * **[decentralized storage](basic_knowledge/decentralized_storage)**
+* **[neo-cypherpunk toolkit](https://github.com/go-outside-labs/neo-cypherpunk-toolkit)**
 
 
 <br>
