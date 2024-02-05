@@ -29,6 +29,7 @@
 * **[self_destruct](self_destruct)**
 * **[ddos attacks](ddos)**
 * **[nonce reuse](nonce)**
+* **[replay attacks](replay_attacks)
 
 
 
