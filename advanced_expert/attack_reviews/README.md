@@ -14,6 +14,7 @@
 
 <br>
 
+* **[learn evm attacks](https://github.com/coinspect/learn-evm-attacks)**
 * **[defi hacks](https://cryptosec.info/defi-hacks/)**
 * **[rug doc wiki](https://wiki.rugdoc.io/)**
 * **[rug pull checker tools](https://graph.org/A-Short-List-of-the-Rug-Checker-Tools-04-09)**
